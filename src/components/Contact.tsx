@@ -139,7 +139,7 @@ const Contact = () => {
                 className="flex items-center space-x-3"
               >
                 <Linkedin className="text-purple-400" />
-                <a href="https://linkedin.com/in/yourusername" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-white">
+                <a href="https://www.linkedin.com/in/sarveshatalkar/" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-white">
                   LinkedIn
                 </a>
               </motion.div>

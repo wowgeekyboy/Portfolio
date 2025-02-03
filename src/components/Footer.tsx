@@ -11,7 +11,7 @@ const Footer = () => {
     },
     {
       icon: <Linkedin size={20} />,
-      url: "https://linkedin.com/in/yourusername",
+      url: "https://www.linkedin.com/in/sarveshatalkar/",
       color: "hover:text-blue-400"
     }
   ];

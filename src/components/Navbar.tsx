@@ -97,7 +97,7 @@ const Navbar = () => {
           <div className="hidden md:flex items-center space-x-4">
             {[
               { icon: <Github size={20} />, href: "https://github.com/wowgeekyboy", color: "hover:text-purple-400" },
-              { icon: <Linkedin size={20} />, href: "https://linkedin.com/in/yourusername", color: "hover:text-purple-400" },
+              { icon: <Linkedin size={20} />, href: "https://www.linkedin.com/in/sarveshatalkar/", color: "hover:text-purple-400" },
               { icon: <Mail size={20} />, href: "mailto:sarveshatalkar@gmail.com", color: "hover:text-purple-400" }
             ].map((social, index) => (
               <motion.a
